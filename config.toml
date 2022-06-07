@@ -1,8 +1,0 @@
-baseURL = 'https://nekokohii.com'
-languageCode = 'en-us'
-title = 'nekokohii.com'
-theme = 'nooruTheme'
-
-# [params]
-#    ga4 = 'G-L1XM4D0M1E' #google analytics 4 ID
-#    cfa = 'b1b9f99360514f86a5f9230bfe3edb14' # cloudflare analytics id
