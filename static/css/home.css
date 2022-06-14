@@ -59,6 +59,9 @@
       margin-top: 170px;
       overflow: hidden;
    }
+   #nooru .nooruContainer .nooruContent img {
+      width: 100%;
+   }
    .customScrollbar{
       background: var(--myColor);
       width: 10px;
